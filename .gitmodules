@@ -1,0 +1,3 @@
+[submodule "external/c_pin_ctrl"]
+	path = external/c_pin_ctrl
+	url = https://github.com/TiJ-code/c_pin_ctrl.git
